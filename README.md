@@ -1,6 +1,4 @@
 # Site_KM_Distribuidora
-
-# Portfolio
 <justify>
 Site que criei para uma distribuidora de produtos de limpeza em Natal RN.
 </justify>
