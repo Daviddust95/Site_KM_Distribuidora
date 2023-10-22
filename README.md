@@ -3,6 +3,10 @@
 Site que criei para uma distribuidora de produtos de limpeza em Natal RN.
 </justify>
 
+## Capturas de Tela
+
+![Captura de tela 2023-10-22 163548](https://github.com/Daviddust95/Site_KM_Distribuidora/assets/124353154/b91914c0-21c2-445b-bb5a-227c8459b788)
+
 ## Conteúdo
 1. [Sobre](#sobre)
 2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
