@@ -1,4 +1,6 @@
 # Site KMDistribuidora
+![Projeto Pausado](https://img.shields.io/badge/Projeto-Pausado-lightgrey.svg)
+
 <justify>
 Site que criei para uma distribuidora de produtos de limpeza em Natal RN.
 </justify>
